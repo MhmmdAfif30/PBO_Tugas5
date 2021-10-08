@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tanpa_Inheritance\obj\Debug\netcoreapp3.1\Tanpa_Inheritance.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tanpa_Inheritance\obj\Debug\netcoreapp3.1\Tanpa_Inheritance.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tanpa_Inheritance\obj\Debug\netcoreapp3.1\Tanpa_Inheritance.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tanpa_Inheritance\obj\Debug\netcoreapp3.1\Tanpa_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tanpa_Inheritance\bin\Debug\netcoreapp3.1\Tanpa_Inheritance.exe
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tanpa_Inheritance\bin\Debug\netcoreapp3.1\Tanpa_Inheritance.deps.json
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tanpa_Inheritance\bin\Debug\netcoreapp3.1\Tanpa_Inheritance.runtimeconfig.json
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tanpa_Inheritance\bin\Debug\netcoreapp3.1\Tanpa_Inheritance.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tanpa_Inheritance\bin\Debug\netcoreapp3.1\Tanpa_Inheritance.dll
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tanpa_Inheritance\bin\Debug\netcoreapp3.1\Tanpa_Inheritance.pdb
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tanpa_Inheritance\obj\Debug\netcoreapp3.1\Tanpa_Inheritance.dll
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tanpa_Inheritance\obj\Debug\netcoreapp3.1\Tanpa_Inheritance.pdb
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tanpa_Inheritance\obj\Debug\netcoreapp3.1\Tanpa_Inheritance.genruntimeconfig.cache

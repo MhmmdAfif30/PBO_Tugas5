@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\PBO\Tugas5\Interface\Tugas5_Interface\obj\Debug\netcoreapp3.1\Tugas5_Interface.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\PBO\Tugas5\Interface\Tugas5_Interface\obj\Debug\netcoreapp3.1\Tugas5_Interface.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PBO\Tugas5\Interface\Tugas5_Interface\obj\Debug\netcoreapp3.1\Tugas5_Interface.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PBO\Tugas5\Interface\Tugas5_Interface\obj\Debug\netcoreapp3.1\Tugas5_Interface.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PBO\Tugas5\Interface\Tugas5_Interface\bin\Debug\netcoreapp3.1\Tugas5_Interface.exe
+C:\Users\ASUS\source\repos\PBO\Tugas5\Interface\Tugas5_Interface\bin\Debug\netcoreapp3.1\Tugas5_Interface.deps.json
+C:\Users\ASUS\source\repos\PBO\Tugas5\Interface\Tugas5_Interface\bin\Debug\netcoreapp3.1\Tugas5_Interface.runtimeconfig.json
+C:\Users\ASUS\source\repos\PBO\Tugas5\Interface\Tugas5_Interface\bin\Debug\netcoreapp3.1\Tugas5_Interface.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\PBO\Tugas5\Interface\Tugas5_Interface\bin\Debug\netcoreapp3.1\Tugas5_Interface.dll
+C:\Users\ASUS\source\repos\PBO\Tugas5\Interface\Tugas5_Interface\bin\Debug\netcoreapp3.1\Tugas5_Interface.pdb
+C:\Users\ASUS\source\repos\PBO\Tugas5\Interface\Tugas5_Interface\obj\Debug\netcoreapp3.1\Tugas5_Interface.dll
+C:\Users\ASUS\source\repos\PBO\Tugas5\Interface\Tugas5_Interface\obj\Debug\netcoreapp3.1\Tugas5_Interface.pdb
+C:\Users\ASUS\source\repos\PBO\Tugas5\Interface\Tugas5_Interface\obj\Debug\netcoreapp3.1\Tugas5_Interface.genruntimeconfig.cache

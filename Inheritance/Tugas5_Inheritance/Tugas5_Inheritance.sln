@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tugas5_Inheritance", "Tugas5_Inheritance.csproj", "{35542C75-3117-47DD-AEA4-C0FA9149CA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35542C75-3117-47DD-AEA4-C0FA9149CA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35542C75-3117-47DD-AEA4-C0FA9149CA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35542C75-3117-47DD-AEA4-C0FA9149CA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35542C75-3117-47DD-AEA4-C0FA9149CA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0094623D-42C9-485C-A477-FC858369C202}
+	EndGlobalSection
+EndGlobal

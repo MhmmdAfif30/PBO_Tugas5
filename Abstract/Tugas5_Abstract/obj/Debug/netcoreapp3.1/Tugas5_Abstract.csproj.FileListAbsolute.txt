@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\PBO\Tugas5\Abstract\Tugas5_Abstract\bin\Debug\netcoreapp3.1\Tugas5_Abstract.exe
+C:\Users\ASUS\source\repos\PBO\Tugas5\Abstract\Tugas5_Abstract\bin\Debug\netcoreapp3.1\Tugas5_Abstract.deps.json
+C:\Users\ASUS\source\repos\PBO\Tugas5\Abstract\Tugas5_Abstract\bin\Debug\netcoreapp3.1\Tugas5_Abstract.runtimeconfig.json
+C:\Users\ASUS\source\repos\PBO\Tugas5\Abstract\Tugas5_Abstract\bin\Debug\netcoreapp3.1\Tugas5_Abstract.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\PBO\Tugas5\Abstract\Tugas5_Abstract\bin\Debug\netcoreapp3.1\Tugas5_Abstract.dll
+C:\Users\ASUS\source\repos\PBO\Tugas5\Abstract\Tugas5_Abstract\bin\Debug\netcoreapp3.1\Tugas5_Abstract.pdb
+C:\Users\ASUS\source\repos\PBO\Tugas5\Abstract\Tugas5_Abstract\obj\Debug\netcoreapp3.1\Tugas5_Abstract.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\PBO\Tugas5\Abstract\Tugas5_Abstract\obj\Debug\netcoreapp3.1\Tugas5_Abstract.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PBO\Tugas5\Abstract\Tugas5_Abstract\obj\Debug\netcoreapp3.1\Tugas5_Abstract.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PBO\Tugas5\Abstract\Tugas5_Abstract\obj\Debug\netcoreapp3.1\Tugas5_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PBO\Tugas5\Abstract\Tugas5_Abstract\obj\Debug\netcoreapp3.1\Tugas5_Abstract.dll
+C:\Users\ASUS\source\repos\PBO\Tugas5\Abstract\Tugas5_Abstract\obj\Debug\netcoreapp3.1\Tugas5_Abstract.pdb
+C:\Users\ASUS\source\repos\PBO\Tugas5\Abstract\Tugas5_Abstract\obj\Debug\netcoreapp3.1\Tugas5_Abstract.genruntimeconfig.cache

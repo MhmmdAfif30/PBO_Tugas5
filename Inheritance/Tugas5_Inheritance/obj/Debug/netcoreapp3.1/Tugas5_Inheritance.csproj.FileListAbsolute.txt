@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tugas5_Inheritance\bin\Debug\netcoreapp3.1\Tugas5_Inheritance.exe
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tugas5_Inheritance\bin\Debug\netcoreapp3.1\Tugas5_Inheritance.deps.json
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tugas5_Inheritance\bin\Debug\netcoreapp3.1\Tugas5_Inheritance.runtimeconfig.json
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tugas5_Inheritance\bin\Debug\netcoreapp3.1\Tugas5_Inheritance.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tugas5_Inheritance\bin\Debug\netcoreapp3.1\Tugas5_Inheritance.dll
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tugas5_Inheritance\bin\Debug\netcoreapp3.1\Tugas5_Inheritance.pdb
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tugas5_Inheritance\obj\Debug\netcoreapp3.1\Tugas5_Inheritance.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tugas5_Inheritance\obj\Debug\netcoreapp3.1\Tugas5_Inheritance.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tugas5_Inheritance\obj\Debug\netcoreapp3.1\Tugas5_Inheritance.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tugas5_Inheritance\obj\Debug\netcoreapp3.1\Tugas5_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tugas5_Inheritance\obj\Debug\netcoreapp3.1\Tugas5_Inheritance.dll
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tugas5_Inheritance\obj\Debug\netcoreapp3.1\Tugas5_Inheritance.pdb
+C:\Users\ASUS\source\repos\PBO\Tugas5\Inheritance\Tugas5_Inheritance\obj\Debug\netcoreapp3.1\Tugas5_Inheritance.genruntimeconfig.cache

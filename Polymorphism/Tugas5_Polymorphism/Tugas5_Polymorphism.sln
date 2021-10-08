@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tugas5_Polymorphism", "Tugas5_Polymorphism.csproj", "{8A92F465-945D-4E30-81E4-760814A3119E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A92F465-945D-4E30-81E4-760814A3119E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A92F465-945D-4E30-81E4-760814A3119E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A92F465-945D-4E30-81E4-760814A3119E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A92F465-945D-4E30-81E4-760814A3119E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19A45452-F8C7-4035-A9E7-AC766E0A8C95}
+	EndGlobalSection
+EndGlobal
